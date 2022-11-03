@@ -1,1 +1,6 @@
+//concat()
 
+let firstName =["antor"];
+let lastName =["kumar"];
+let fullName =firstName.concat(lastName);
+console.log(fullName);
